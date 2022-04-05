@@ -1,0 +1,13 @@
+{
+    "name": "pokari0522/hello-lib",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "pokari0522",
+            "email": "pikuuuuuru@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
