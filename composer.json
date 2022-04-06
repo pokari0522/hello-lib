@@ -8,6 +8,11 @@
             "email": "pikuuuuuru@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "pokari0522\\HelloLib\\": "src/"
+        }
+    },
     "minimum-stability": "dev",
     "require": {}
 }
